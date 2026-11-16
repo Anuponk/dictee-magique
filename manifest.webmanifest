@@ -1,0 +1,19 @@
+{
+  "name": "Ma Dictée Magique",
+  "short_name": "Dictée Magique",
+  "description": "Jeu éducatif de dictée pour enfants",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#fff4dc",
+  "theme_color": "#ff655d",
+  "lang": "fr",
+  "icons": [
+    {
+      "src": "./icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
